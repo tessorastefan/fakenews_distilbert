@@ -57,6 +57,7 @@ This fake news detection model utilizes the DistilBERT architecture to classify 
 ## Resources
 
 ### Presentation Recording
+https://github.com/user-attachments/assets/3c4f41d3-3ba4-4aa6-92fa-97b20e125242
 
 ### Resource Links
 - Paper on Detecting Fake News with Machine Learning: https://arxiv.org/abs/2102.04458
